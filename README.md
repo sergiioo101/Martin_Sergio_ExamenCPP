@@ -11,7 +11,7 @@ https://github.com/sergiioo101/examen1.git
 
 #### PARTE 3
 1.
-La programación orientada a objetos (POO) se enfoca en objetos que encapsulan datos y operaciones, mientras que la programación procedimental se basa en funciones que manipulan datos de manera lineal. C++ es un lenguaje multiparadigma que combina ambos enfoques, ofreciendo la flexibilidad de clases y objetos para la POO y permitiendo la programación procedimental tradicional. Esto brinda a los desarrolladores la libertad de elegir el enfoque que mejor se adapte a las necesidades específicas de su proyecto, facilitando la modularidad y la reutilización del código.
+La Programación Orientada a Objetos (POO) destaca la organización en torno a objetos para encapsular datos y funciones, fomentando la modularidad y reutilización del código. En cambio, la Programación Procedimental se centra en funciones que manipulan datos de manera más lineal. C++ ofrece un soporte integral para ambos paradigmas al permitir la creación de clases y objetos para la POO, así como la escritura de funciones y procedimientos en el enfoque procedural. Esta dualidad en C++ proporciona flexibilidad, permitiendo a los desarrolladores elegir la aproximación que mejor se ajuste a los requisitos específicos del proyecto.
 
 2. 
 Propagación de una excepción:
