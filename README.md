@@ -17,7 +17,7 @@ https://github.com/sergiioo101/Martin_Sergio_ExamenCPP.git
 8. Filtrado de Estudiantes por Grado - ejercicio8
 9. Gestión de Excepciones Personalizadas - ejercicio9
 10. Registro de Profesores - ejercicio 10
-- Los ejercicios los he realizado con informacion sacada de los apuntes y de ChatGPT
+- Los ejercicios los he realizado con informacion sacada de los apuntes, ChatGPT y herramientas del programa (GitHub Copilot)
 
 #### PARTE 3
 1.
