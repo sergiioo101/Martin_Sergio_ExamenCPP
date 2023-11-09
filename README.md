@@ -17,6 +17,7 @@ https://github.com/sergiioo101/examen1.git
 8. Filtrado de Estudiantes por Grado - ejercicio8
 9. Gestión de Excepciones Personalizadas - ejercicio9
 10. Registro de Profesores - ejercicio 10
+Los ejercicios los he realizado con informacion sacada de los apuntes y de ChatGPT
 
 #### PARTE 3
 1.
