@@ -7,16 +7,16 @@ https://github.com/sergiioo101/Martin_Sergio_ExamenCPP.git
 3. b) Variables que almacenan la dirección de otra variable
 
 #### PARTE 2
-1. Operaciones Básicas - ejercicio1
-2. Gestión de Estudiantes - ejercicio 2
-3. Optimización de Memoria - ejercicio 3
-4. Manejo de Excepciones - ejercicio 4
-5. Registro de Materias - ejercicio5
-6. Promedio del Estudiante - ejercicio6
-7. Manejo de Ausencias - ejercicio7
-8. Filtrado de Estudiantes por Grado - ejercicio8
-9. Gestión de Excepciones Personalizadas - ejercicio9
-10. Registro de Profesores - ejercicio 10
+1. Operaciones Básicas: Esta función en C++ recibe dos números enteros y retorna la suma de ambos.
+2. Gestión de Estudiantes: Se define la clase Estudiante con propiedades y una función miembro para mostrar la información del estudiante.
+3. Optimización de Memoria: Esta función utiliza punteros para intercambiar los valores de dos variables.
+4. Manejo de Excepciones: El código demuestra el uso de bloques try, catch y throw para manejar una excepción en el caso de división por cero.
+5. Registro de Materias: Se amplía la clase Estudiante para incluir una lista de materias y funciones para registrar y mostrarlas.
+6. Promedio del Estudiante: La función recibe una lista de calificaciones y retorna el promedio.
+7. Manejo de Ausencias: Se crea la clase RegistroAsistencia con propiedades y una función para mostrar la asistencia.
+8. Filtrado de Estudiantes por Grado: La función recibe una lista de estudiantes y un grado, y retorna una lista filtrada por el grado especificado.
+9. Gestión de Excepciones Personalizadas: Se demuestra el uso de una excepción personalizada MateriaYaRegistradaException
+10. Registro de Profesores: Se crea la clase Profesor con propiedades y una función para mostrar la información del profesor.
 - Los ejercicios los he realizado con informacion sacada de los apuntes, ChatGPT y herramientas del programa (GitHub Copilot)
 
 #### PARTE 3
