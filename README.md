@@ -7,7 +7,16 @@ https://github.com/sergiioo101/examen1.git
 3. b) Variables que almacenan la dirección de otra variable
 
 #### PARTE 2
-
+Operaciones Básicas - ejercicio1
+Gestión de Estudiantes - ejercicio 2
+Optimización de Memoria - ejercicio 3
+Manejo de Excepciones - ejercicio 4
+Registro de Materias - ejercicio5
+Promedio del Estudiante - ejercicio6
+Manejo de Ausencias - ejercicio7
+Filtrado de Estudiantes por Grado - ejercicio8
+Gestión de Excepciones Personalizadas - ejercicio9
+Registro de Profesores - ejercicio 10
 
 #### PARTE 3
 1.
