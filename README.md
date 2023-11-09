@@ -1,5 +1,5 @@
 # examen1
-https://github.com/sergiioo101/examen1.git
+https://github.com/sergiioo101/Martin_Sergio_ExamenCPP.git
 
 #### PARTE 1
 1. d) Todas las anteriores
